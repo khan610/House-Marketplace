@@ -270,4 +270,6 @@ function CreateListing() {
   );
 }
 
+console.log("Khan will rule");
+
 export default CreateListing;
