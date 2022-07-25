@@ -281,6 +281,8 @@ function CreateListing() {
             />
           </>
         )}
+
+        <label className="formLabel">Images</label>
       </main>
     </div>
   );
